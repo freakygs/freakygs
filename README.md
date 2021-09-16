@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @freakygs
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Presto, Data Robot, Kubernetes, 
-- 💞️ I’m looking to collaborate on Snowflake, Teradata, Kafka, AWS, GCP, Airflow, Python
+- 💞️ I’m looking to collaborate on Snowflake, Teradata, Kafka, AWS, GCP, Python, Airflow, HDFS
 - 📫 How to reach me ...
 
 <!---
