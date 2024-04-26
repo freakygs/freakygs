@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @freakygs
-- 👀 I’m a Data Engineer
+- 👀 I’m a Data Architect
 - 🌱 currently learning Large Language Models, Deep Learning, NLP
-- 💞️ looking to collaborate on Data Engineering, Machine Learning, Data Science
+- 💞️ looking to collaborate on Data Architecture, Engineering, Machine Learning, Data Science
 
 <!---
 freakygs/freakygs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
